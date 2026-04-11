@@ -35,7 +35,7 @@ const Navbar = () => {
             </a>
             <a
               href="#"
-              className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md"
+              className="bg-gradient-to-r from-emerald-400 to-emerald-700 py-2 px-3 rounded-md"
             >
               Create an account
             </a>
@@ -64,7 +64,7 @@ const Navbar = () => {
               </a>
               <a
                 href="#"
-                className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800"
+                className="py-2 px-3 rounded-md bg-gradient-to-r from-emerald-400 to-emerald-700"
               >
                 Create an account
               </a>
