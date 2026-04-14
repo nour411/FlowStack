@@ -5,13 +5,13 @@ const Features = () => {
   return (
     <section
       id="features"
-      className="relative mt-20 border-b border-neutral-800 min-h-200"
+      className="relative mt-30 border-b border-neutral-800 min-h-200"
     >
       <div className="text-center">
-        <span className="bg-neutral-900 from-emerald-400  rounded-full h-6 text-sm font-medium px-2 py-1 uppercase">
+        <span className="bg-neutral-900 from-emerald-400  rounded-full h-6 text-md font-medium px-2 py-1 uppercase">
           feature
         </span>
-        <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 tracking-wide">
+        <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-5 lg:mt-10 tracking-wide">
           Easily build
           <span className="bg-linear-to-r from-emerald-400 to-emerald-700 text-transparent bg-clip-text">
             {" "}

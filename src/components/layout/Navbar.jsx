@@ -16,7 +16,12 @@ const Navbar = () => {
           {/* left side of navbare */}
           <div className="flex items-center shrink-0">
             <img src={logo} alt="logo" className="h-10 w-10 mr-2" />
-            <span className="text-xl tracking-tight">VirtualR</span>
+            <span className="text-xl tracking-tight">
+              Flow
+              <span className="bg-gradient-to-r from-emerald-400 to-emerald-700 text-transparent bg-clip-text">
+                Stack
+              </span>
+            </span>
           </div>
 
           {/* middle side of navbare */}

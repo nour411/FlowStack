@@ -3,7 +3,7 @@ import { pricingOptions } from "../../constants/data";
 
 const Pricing = () => {
   return (
-    <section id="pricing" className="mt-20">
+    <section id="pricing" className="mt-40 ">
       {/* Title */}
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-8 tracking-wider">
         Pricing
