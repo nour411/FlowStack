@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section id="hero" className="flex flex-col items-center ">
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-        VirtualR build tools
+        FlowStack build tools
         <span className="bg-gradient-to-r from-emerald-400 to-emerald-700 text-transparent bg-clip-text">
           {" "}
           for developers
@@ -14,7 +14,7 @@ const Hero = () => {
       </h1>
 
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
-        Empower your creativity and bring your VR app ideas to life with our
+        Empower your creativity and bring your app ideas to life with our
         intuitive development tools. get started today and turn your imagination
         into immersive reality!
       </p>
